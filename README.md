@@ -92,16 +92,14 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
-
+ 
 ### 📊 Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar7tech&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
 ## 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=gauravkumar7tech&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=gauravkumar7tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 <p align="center">
