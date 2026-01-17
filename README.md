@@ -99,7 +99,7 @@
 ---
 
 ## 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=gauravkumar7tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravkumar7tech&show_icons=true&theme=radical)
 ---
 
 <p align="center">
