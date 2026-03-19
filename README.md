@@ -1,4 +1,3 @@
-[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)]()
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
