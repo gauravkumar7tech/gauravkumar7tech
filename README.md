@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Rez4-3yz/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=🚀+Passionate+Full+Stack+Developer+🚀;🧠+MERN+Stack+Enthusiast+🧠;🌱+Open-Source+Contributor+🌱;💻+Problem+Solver+%26+Coder+💻&center=true&width=500&height=50" />
   </a>
-</div>
+</div> -->
 
 
 <p align="left">
