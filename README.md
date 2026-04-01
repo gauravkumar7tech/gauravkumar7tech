@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
 <div align="center">
-  <a>
-    Passionate+Full+Stack+Developer+🚀
-  </a>
+  <p>
+    **Passionate FullStack Developer🚀**
+  </p>
 </div>
 
 
