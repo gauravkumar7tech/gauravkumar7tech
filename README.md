@@ -1,18 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
-<!-- <div align="center">
-  <a href="https://github.com/Rez4-3yz/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=🚀+Passionate+Full+Stack+Developer+🚀;🧠+MERN+Stack+Enthusiast+🧠;🌱+Open-Source+Contributor+🌱;💻+Problem+Solver+%26+Coder+💻&center=true&width=500&height=50" />
+<div align="center">
+  <a>
+    Passionate+Full+Stack+Developer+🚀
   </a>
-</div> -->
+</div>
 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gauravkumar7tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
 
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **CareerBuilder_AI**  
@@ -39,13 +37,6 @@
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
        height="30" width="40" alt="Codeforces" />
 </a>
-
-
-</p>
-
-<p align="center">
-  <img width="100%" loading="lazy" 
-       src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Languages & Tools**
