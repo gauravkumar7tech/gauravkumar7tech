@@ -81,12 +81,3 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
 </p>
 
-<p align="center">
-  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
----
-
-## 🔝 Top Contributed Repos  
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravkumar7tech&show_icons=true&theme=radical)
