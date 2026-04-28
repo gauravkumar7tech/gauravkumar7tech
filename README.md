@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **CareerBuilder_AI**  
 - 🌱 I’m learning **Full Stack Web Development Projects (MERN)**  
 - 💬 Ask me about ****  
-- 📫 Reach me at **ravendrasingh1012006@gmail.com**  
+- 📫 Reach me at **gauravydv1012006@gmail.com**  
 
 ---
 
