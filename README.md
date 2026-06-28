@@ -38,7 +38,8 @@
        height="30" width="40" alt="Codeforces" />
 </a>
 </p>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Languages & Tools**
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 
+    ##Languages & Tools
 
 <p align="left">
   <a>
@@ -49,32 +50,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
          alt="Java" width="40" height="40" />
   </a>
-  
-</p>
-
-### 🎨 Frontend Development
-<p align="left">
   <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
   <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" />
-</p>
-
-### 🛠 Backend Development
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=api" width="45" height="45" alt="REST APIs" />
-</p>
-
-### 🗄 Databases
-<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-</p>
-
-### 🔧 Tools & Platforms
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
