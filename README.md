@@ -39,7 +39,8 @@
 </a>
 </p>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 
-    ##Languages & Tools
+
+  ##  Languages & Tools
 
 <p align="left">
   <a>
