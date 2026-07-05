@@ -60,10 +60,6 @@
   <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
   <!-- <img src="https://skillicons.dev/icons?i=api" width="45" height="45" alt="REST APIs" /> -->
