@@ -64,7 +64,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
-  <!-- <img src="https://skillicons.dev/icons?i=api" width="45" height="45" alt="REST APIs" /> -->
   <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
