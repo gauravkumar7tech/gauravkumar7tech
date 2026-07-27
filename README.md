@@ -14,8 +14,7 @@
 
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on **CareerBuilder_AI**  
-- 🌱 I’m learning **Full Stack Web Development Projects (MERN)**  
-- 💬 Ask me about ****  
+- 🌱 I’m learning **Full Stack Web Development Projects (MERN)** 
 - 📫 Reach me at **gauravydv1012006@gmail.com**
 - 🧾 [View My Resume](https://drive.google.com/file/d/1nSXP42zRvKQqV7auMgdb0TPTNHIe3YGz/view?usp=drive_link)  
 - 🌐 **Portfolio:** [Visit My Website 🚀](https://gauravkumar7tech.github.io/Portfolio/)  
