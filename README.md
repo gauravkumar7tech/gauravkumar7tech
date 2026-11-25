@@ -13,7 +13,7 @@
 </p>
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on **CareerBuilder_AI**  
+- 🔭 I’m currently working on **Carbon setu**  
 - 🌱 I’m learning **Full Stack Web Development Projects (MERN)** 
 - 📫 Reach me at **gauravydv1012006@gmail.com**
 - 🧾 [View My Resume](https://drive.google.com/file/d/1nSXP42zRvKQqV7auMgdb0TPTNHIe3YGz/view?usp=drive_link)  
